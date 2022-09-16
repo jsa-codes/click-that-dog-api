@@ -1,0 +1,334 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "fullName": "Rozamond Rump",
+            "email": "rrump0@dot.gov",
+            "isTrainer": true
+        },
+        {
+            "id": 2,
+            "fullName": "Alisun Najera",
+            "email": "anajera1@oakley.com",
+            "isTrainer": false
+        },
+        {
+            "id": 3,
+            "fullName": "Padgett Bernardi",
+            "email": "pbernardi2@bloomberg.com",
+            "isTrainer": true
+        },
+        {
+            "id": 4,
+            "fullName": "Titus Rippingale",
+            "email": "trippingale3@ucoz.com",
+            "isTrainer": false
+        },
+        {
+            "id": 5,
+            "fullName": "Gaile Stollberger",
+            "email": "gstollberger4@toplist.cz",
+            "isTrainer": true
+        },
+        {
+            "id": 6,
+            "fullName": "Edna Gottelier",
+            "email": "egottelier5@reuters.com",
+            "isTrainer": false
+        },
+        {
+            "id": 7,
+            "fullName": "Edee Pedrick",
+            "email": "epedrick6@sciencedirect.com",
+            "isTrainer": true
+        },
+        {
+            "id": 8,
+            "fullName": "Rozanne Marriot",
+            "email": "rmarriot7@cbslocal.com",
+            "isTrainer": false
+        },
+        {
+            "id": 9,
+            "fullName": "Randall Harston",
+            "email": "rharston8@oakley.com",
+            "isTrainer": true
+        },
+        {
+            "id": 10,
+            "fullName": "Aleece Vinker",
+            "email": "avinker9@google.nl",
+            "isTrainer": false
+        }
+    ],
+    "clients": [
+        {
+            "id": 1,
+            "userId": 1,
+            "phoneNumber": "615-786-9809",
+            "startDate": "3/3/2022",
+            "trainerId": 1
+        },
+        {
+            "id": 2,
+            "userId": 2,
+            "phoneNumber": "615-776-5343",
+            "startDate": "6/13/2023",
+            "trainerId": 2
+        },
+        {
+            "id": 3,
+            "userId": 3,
+            "phoneNumber": "615-796-3222",
+            "startDate": "6/14/2023",
+            "trainerId": 3
+        },
+        {
+            "id": 4,
+            "userId": 4,
+            "phoneNumber": "615-736-1121",
+            "startDate": "3/1/2023",
+            "trainerId": 4
+        },
+        {
+            "id": 5,
+            "userId": 5,
+            "phoneNumber": "615-746-2701",
+            "startDate": "3/29/2023",
+            "trainerId": 5
+        },
+        {
+            "id": 6,
+            "userId": 6,
+            "phoneNumber": "615-761-3233",
+            "startDate": "7/26/2023",
+            "trainerId": 6
+        },
+        {
+            "id": 7,
+            "userId": 7,
+            "phoneNumber": "615-718-9999",
+            "startDate": "5/2/2023",
+            "trainerId": 7
+        },
+        {
+            "id": 8,
+            "userId": 8,
+            "phoneNumber": "615-777-7687",
+            "startDate": "8/24/2022",
+            "trainerId": 8
+        },
+        {
+            "id": 9,
+            "userId": 9,
+            "phoneNumber": "615-756-4365",
+            "startDate": "7/17/2023",
+            "trainerId": 9
+        },
+        {
+            "id": 10,
+            "userId": 10,
+            "phoneNumber": "615-721-1285",
+            "startDate": "6/5/2023",
+            "trainerId": 10
+        }
+    ],
+    "trainers": [
+        {
+            "id": 1,
+            "userId": 1
+        },
+        {
+            "id": 2,
+            "userId": 2
+        },
+        {
+            "id": 3,
+            "userId": 3
+        },
+        {
+            "id": 4,
+            "userId": 4
+        },
+        {
+            "id": 5,
+            "userId": 5
+        }
+    ],
+    "clientDog": [
+        {
+            "id": 1,
+            "clientId": 1,
+            "dogName": "Ralph",
+            "breed": "German Shepherd",
+            "gender": "Male",
+            "dogAge": 1
+        },
+        {
+            "id": 2,
+            "clientId": 2,
+            "dogName": "Gösta",
+            "breed": "Alaskan Malamute",
+            "gender": "Male",
+            "dogAge": 4
+        },
+        {
+            "id": 3,
+            "clientId": 3,
+            "dogName": "Mylène",
+            "breed": "Maltese",
+            "gender": "Female",
+            "dogAge": 2
+        },
+        {
+            "id": 4,
+            "clientId": 4,
+            "dogName": "Gypsy",
+            "breed": "Flat Coated Retriever",
+            "gender": "Female",
+            "dogAge": 5
+        },
+        {
+            "id": 5,
+            "clientId": 5,
+            "dogName": "Gaétane",
+            "breed": "Akita",
+            "gender": "Male",
+            "dogAge": 5
+        },
+        {
+            "id": 6,
+            "clientId": 6,
+            "dogName": "Laurélie",
+            "breed": "American Foxhound",
+            "gender": "Male",
+            "dogAge": 8
+        },
+        {
+            "id": 7,
+            "clientId": 7,
+            "dogName": "Méline",
+            "breed": "Border Collie",
+            "gender": "Female",
+            "dogAge": 6
+        },
+        {
+            "id": 8,
+            "clientId": 8,
+            "dogName": "Gaétane",
+            "breed": "Belgian Malinois",
+            "gender": "Female",
+            "dogAge": 8
+        },
+        {
+            "id": 9,
+            "clientId": 9,
+            "dogName": "Uò",
+            "breed": "Bernese Mountain Dog",
+            "gender": "Male",
+            "dogAge": 3
+        },
+        {
+            "id": 10,
+            "clientId": 10,
+            "dogName": "Vincent",
+            "breed": "Bluetick Hound",
+            "gender": "Male",
+            "dogAge": 5
+        }
+    ],
+    "trainingSession": [
+        {
+            "id": 1,
+            "clientDogId": 1,
+            "todaysDate": "9-16-2022",
+            "behaviorTypeId": 1,
+            "locationName": "Yard",
+            "timeSpent": 50,
+            "treatsUsed": "Liver",
+            "rating": 1
+        }
+    ],
+    "behaviorType": [
+        {
+            "id": 1,
+            "behaviorType": "Sit"
+        },
+        {
+            "id": 2,
+            "behaviorType": "Down"
+        },
+        {
+            "id": 3,
+            "behaviorType": "Place"
+        },
+        {
+            "id": 4,
+            "behaviorType": "Hand Touch"
+        },
+        {
+            "id": 5,
+            "behaviorType": "Shake"
+        },
+        {
+            "id": 6,
+            "behaviorType": "Close"
+        },
+        {
+            "id": 7,
+            "behaviorType": "Side"
+        },
+        {
+            "id": 8,
+            "behaviorType": "Come"
+        },
+        {
+            "id": 9,
+            "behaviorType": "Hand Signal for Sit"
+        },
+        {
+            "id": 10,
+            "behaviorType": "Hand Signal for Down"
+        },
+        {
+            "id": 11,
+            "behaviorType": "Go to House"
+        },
+        {
+            "id": 12,
+            "behaviorType": "Tug"
+        },
+        {
+            "id": 13,
+            "behaviorType": "Get It"
+        },
+        {
+            "id": 14,
+            "behaviorType": "Sit in Car"
+        },
+        {
+            "id": 15,
+            "behaviorType": "Down in Car"
+        },
+        {
+            "id": 16,
+            "behaviorType": "Close Down"
+        },
+        {
+            "id": 17,
+            "behaviorType": "Side Down"
+        },
+        {
+            "id": 18,
+            "behaviorType": "Watch Me"
+        },
+        {
+            "id": 19,
+            "behaviorType": "Nail trimming"
+        },
+        {
+            "id": 20,
+            "behaviorType": "Walking on Leash"
+        }
+    ]
+}
